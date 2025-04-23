@@ -11,7 +11,7 @@ An interactive and responsive quiz application built with **React** and **JavaSc
 
 ---
 ## 📸 Screenshots
-![App Demo](screenshot.jpg)
+![App Demo](Screenshot.jpeg)
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ An interactive and responsive quiz application built with **React** and **JavaSc
 ### Desktop View
 ## 🚀 Demo
 
-![App Demo](Quiz%20App.gif)
+![App Demo](QuizApp.gif)
 
 
 
