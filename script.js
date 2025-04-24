@@ -66,7 +66,6 @@ questions[currentQuestionIndex].choices.forEach(choice => {
 
 function selectAnswer(choice){
    const correctAnswer = questions[currentQuestionIndex].answer;
-  correctAnswer.style.background="#5CB338;"
    if(choice === correctAnswer){
        score++
    }
